@@ -17,7 +17,7 @@ To install them:
 
 - Make sure you have Flutter installed on your system.
 - Run:  
-  `dart pub get`
+  `flutter pub get`
 
 ### 3. Prepare AI Assets
 
