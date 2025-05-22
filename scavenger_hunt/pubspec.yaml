@@ -30,6 +30,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  camera: ^0.10.0+4           # For video capture
+  flutter_sound: ^9.2.13      # For voice recording
+  tflite_flutter: ^0.10.0     # For running YOLO model offline
+  path_provider: ^2.0.12      # For local storage directory
+  hive: ^2.2.3                # For lightweight NoSQL local DB
+  hive_flutter: ^1.1.0        # Hive adapter for Flutter
+  permission_handler: ^10.0.0 # For requesting permissions
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
