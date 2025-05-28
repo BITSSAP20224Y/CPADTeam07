@@ -1,6 +1,6 @@
 # CPAD_team_08 - Scavenger Hunt
 
-**Scavenger Hunt** is a Flutter-based mobile app that challenges users to find real-world objects using their device's camera and microphone. It runs AI models entirely offline for object detection and keyword matching, ensuring privacy and low-latency performance.
+**Snap Detect** is a Flutter-based mobile app that challenges users to find real-world objects using their device's camera and microphone. It runs AI models entirely offline for object detection and keyword matching, ensuring privacy and low-latency performance.
 
 ---
 
@@ -38,9 +38,7 @@ Make sure you grant all required permissions (camera, microphone, storage) when 
 
 ## 🧩 Key Features
 
-- Offline YOLOv5 object detection on recorded videos
-- Voice keyword recognition via offline/local rule matching
-- Random quest generator with object name + icon
+- Offline YOLOv5 object detection on image
 - Local history saved using Hive (lightweight local database)
 - Gallery screen to view past attempts with playback
 
@@ -51,9 +49,7 @@ Make sure you grant all required permissions (camera, microphone, storage) when 
 Some of the key Flutter packages used include:
 
 - `camera`
-- `flutter_sound`
 - `tflite_flutter`
-- `hive` and `hive_flutter`
 - `permission_handler`
 - `path_provider`
 
