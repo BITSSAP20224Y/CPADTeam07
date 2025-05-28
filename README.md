@@ -1,4 +1,4 @@
-# CPAD_team_08 - Scavenger Hunt
+# CPAD_team_08 - Snap Detect
 
 **Snap Detect** is a Flutter-based mobile app that challenges users to find real-world objects using their device's camera and microphone. It runs AI models entirely offline for object detection and keyword matching, ensuring privacy and low-latency performance.
 
