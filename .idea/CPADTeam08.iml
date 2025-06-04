@@ -6,8 +6,13 @@
       <excludeFolder url="file://$MODULE_DIR$/scavenger_hunt/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/scavenger_hunt/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/scavenger_hunt/build" />
+      <excludeFolder url="file://$MODULE_DIR$/snapdetect/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/snapdetect/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/snapdetect/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>
